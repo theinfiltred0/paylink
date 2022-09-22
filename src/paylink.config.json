@@ -2,19 +2,19 @@
   "theme": "minimalist-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
+    "name": "The Infiltred",
+    "description": "Software Engineer | Sound Engineer",
+    "alt": "Photo of The Infiltred",
     "hero": "./images/daniel-castillo.png"
   },
 
   "Social": [
-    { "label": "Link", "value": "bxl-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:your@mail.com" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Link", "value": "bxl-link", "link": "https://the-infiltred.slyk.io" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:theinfiltred1@gmail.com" },
+    { "label": "GitHub", "value": "bxl-github", "link": "" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/theinfiltred" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/the-eddy-campos" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/the_infiltred" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -31,6 +31,12 @@
   ],
 
   "Payments": [
+    {
+      "id": "card",
+      "label": "CUP",
+      "value": "9227 9598 7305 3776",
+      "img": "./images/payments/card.svg"
+    },
     {
       "id": "btc",
       "label": "Bitcoin",
@@ -108,12 +114,6 @@
       "label": "XRP",
       "value": "",
       "img": "./images/payments/xrp.svg"
-    },
-    {
-      "id": "card",
-      "label": "Card",
-      "value": "",
-      "img": "./images/payments/card.svg"
     }
   ]
 }
