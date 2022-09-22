@@ -104,10 +104,10 @@
       "img": "./images/payments/sol.svg"
     },
     {
-      "id": "ada",
-      "label": "ADA",
-      "value": "",
-      "img": "./images/payments/ada.svg"
+      "id": "tezoz",
+      "label": "TEZ",
+      "value": "tz1L8UrmbaUX99aAK51iHyY1Yybkhuu2eecY",
+      "img": "https://cryptologos.cc/logos/tezos-xtz-logo.png"
     },
     {
       "id": "trx",
