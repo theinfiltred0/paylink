@@ -51,7 +51,7 @@
     },
     {
       "id": "matic",
-      "label": "MATIC [Polygon]",
+      "label": "MATIC (Polygon)",
       "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
       "img": "./images/payments/matic.svg"
     },
@@ -93,7 +93,7 @@
     },
     {
       "id": "usdt",
-      "label": "USDT [TRC-20]",
+      "label": "USDT (TRC-20)",
       "value": "TXhuhAw7maWyqSv4a1Qb7dXcN9s8QJgTqH",
       "img": "./images/payments/usdt.svg"
     },
