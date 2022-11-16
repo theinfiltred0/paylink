@@ -5,7 +5,7 @@
     "name": "The Infiltred",
     "description": "Software Engineer | Sound Engineer",
     "alt": "Photo of The Infiltred",
-    "hero": "./images/eddy-platzi.jpg"
+    "hero": "./images/eddy3.jpg"
   },
 
   "Social": [
@@ -14,7 +14,7 @@
     { "label": "GitHub", "value": "bxl-github", "link": "" },
     { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/theinfiltred" },
     { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/the-eddy-campos" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/the_infiltred" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -39,7 +39,7 @@
     },
     {
       "id": "hive",
-      "label": "Hive | HBD",
+      "label": "HIVE | HBD",
       "value": "theinfiltred",
       "img": "https://cryptologos.cc/logos/hive-blockchain-hive-logo.svg?v=023"
     },
@@ -51,13 +51,13 @@
     },
     {
       "id": "matic",
-      "label": "MATIC (Polygon)",
+      "label": "MATIC [Polygon]",
       "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
       "img": "./images/payments/matic.svg"
     },
     {
       "id": "eth",
-      "label": "Ethereum",
+      "label": "ΞTHΞRΞUM",
       "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
       "img": "./images/payments/eth.svg"
     },
@@ -93,7 +93,7 @@
     },
     {
       "id": "usdt",
-      "label": "USDT (TRC-20)",
+      "label": "USDT [TRC-20]",
       "value": "TXhuhAw7maWyqSv4a1Qb7dXcN9s8QJgTqH",
       "img": "./images/payments/usdt.svg"
     },
@@ -104,7 +104,7 @@
       "img": "./images/payments/sol.svg"
     },
     {
-      "id": "tezoz",
+      "id": "tezos",
       "label": "TEZ",
       "value": "tz1L8UrmbaUX99aAK51iHyY1Yybkhuu2eecY",
       "img": "https://cryptologos.cc/logos/tezos-xtz-logo.png"
