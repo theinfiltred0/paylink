@@ -57,13 +57,13 @@
     },
     {
       "id": "eth",
-      "label": "ΞTHΞRΞUM",
+      "label": "ΞTH",
       "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
       "img": "./images/payments/eth.svg"
     },
     {
       "id": "btc",
-      "label": "Bitcoin LN",
+      "label": "BTC (Lightning)",
       "value": "theinfiltred@getalby.com",
       "img": "./images/payments/btc.svg"
     },
@@ -99,7 +99,7 @@
     },
     {
       "id": "sol",
-      "label": "Solana",
+      "label": "SOL",
       "value": "EzoCjnfjxizbZucuZe4v95qwsk68W2xFXitAxj7baMZf",
       "img": "./images/payments/sol.svg"
     },
