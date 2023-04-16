@@ -63,8 +63,8 @@
     },
     {
       "id": "btc",
-      "label": "Bitcoin",
-      "value": "bc1qnueej8s244dcf5m6kju3388595f9d4r0462jdz6glpxwzq68wr7s8fvupk",
+      "label": "Bitcoin LN",
+      "value": "theinfiltred@getalby.com",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -94,13 +94,13 @@
     {
       "id": "usdt",
       "label": "USDT (TRC-20)",
-      "value": "TXhuhAw7maWyqSv4a1Qb7dXcN9s8QJgTqH",
+      "value": "TGePHXfFzXiX5HsWp3XueZxpXnLGgAAsKY",
       "img": "./images/payments/usdt.svg"
     },
     {
       "id": "sol",
       "label": "Solana",
-      "value": "5wkZTajDpLdPdsJa2WvXgyWtQZXPFqFHXfvy7iBUeg25",
+      "value": "EzoCjnfjxizbZucuZe4v95qwsk68W2xFXitAxj7baMZf",
       "img": "./images/payments/sol.svg"
     },
     {
@@ -112,7 +112,7 @@
     {
       "id": "trx",
       "label": "TRX (Tron)",
-      "value": "TXhuhAw7maWyqSv4a1Qb7dXcN9s8QJgTqH",
+      "value": "",
       "img": "./images/payments/trx.svg"
     },
     {
