@@ -68,9 +68,9 @@
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "busd",
-      "label": "BinanceUSD",
-      "value": "",
+      "id": "ton",
+      "label": "TON",
+      "value": "UQAD-61NzqqoXFl8wuRyQYPqgmD8An3ina84JMEFfAUfWBGH",
       "img": "./images/payments/busd.svg"
     },
     {
