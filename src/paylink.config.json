@@ -71,7 +71,7 @@
       "id": "ton",
       "label": "TON",
       "value": "UQAD-61NzqqoXFl8wuRyQYPqgmD8An3ina84JMEFfAUfWBGH",
-      "img": "./images/payments/busd.svg"
+      "img": "./images/ton_symbol.svg"
     },
     {
       "id": "doge",
@@ -108,12 +108,6 @@
       "label": "TEZ",
       "value": "tz1L8UrmbaUX99aAK51iHyY1Yybkhuu2eecY",
       "img": "https://cryptologos.cc/logos/tezos-xtz-logo.png"
-    },
-    {
-      "id": "audio",
-      "label": "AUDIO (ΞTHΞRΞUM)",
-      "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
-      "img": "./images/payments/unnamed.png"
     },
     {
       "id": "qvapay",
