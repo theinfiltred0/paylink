@@ -69,7 +69,7 @@
     },
     {
       "id": "ton",
-      "label": "TON",
+      "label": "TON (Telegram)",
       "value": "UQAD-61NzqqoXFl8wuRyQYPqgmD8An3ina84JMEFfAUfWBGH",
       "img": "./images/ton_symbol.svg"
     },
