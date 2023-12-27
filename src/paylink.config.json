@@ -68,12 +68,6 @@
       "img": "./images/payments/btc.svg"
     },
     {
-      "id": "ton",
-      "label": "TON (Telegram)",
-      "value": "UQAD-61NzqqoXFl8wuRyQYPqgmD8An3ina84JMEFfAUfWBGH",
-      "img": "./images/ton_symbol.svg"
-    },
-    {
       "id": "doge",
       "label": "DogeCoin",
       "value": "",
@@ -92,12 +86,6 @@
       "img": "./images/payments/paypal.svg"
     },
     {
-      "id": "usdt",
-      "label": "USDT (TRC-20)",
-      "value": "TGePHXfFzXiX5HsWp3XueZxpXnLGgAAsKY",
-      "img": "./images/payments/usdt.svg"
-    },
-    {
       "id": "sol",
       "label": "SOL",
       "value": "EzoCjnfjxizbZucuZe4v95qwsk68W2xFXitAxj7baMZf",
@@ -112,7 +100,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "",
+      "value": "https://qvapay.com/payme/theinfiltred",
       "img": "./images/payments/qvapay.svg"
     },
     {
