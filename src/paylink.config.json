@@ -12,7 +12,7 @@
     { "label": "Link", "value": "bxl-link", "link": "https://theinfiltred.xyz" },
     { "label": "Email", "value": "bx-envelope", "link": "mailto:theinfiltred.official@gmail.com" },
     { "label": "GitHub", "value": "bxl-github", "link": "" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/theinfiltred" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "https://x.com/theinfiltred" },
     { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://www.linkedin.com/in/the-eddy-campos" },
     { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
@@ -101,7 +101,7 @@
       "id": "bonsai",
       "label": "BONSAI",
       "value": "0x285c54D5Fe93a2af4DcC788f878e042A02839946",
-      "img": "./images/BONSAI-Logo_Symbol-Only-WB.svg"
+      "img": "./images/BONSAI-Logo_Symbol-Only-BW.png"
     },
     {
       "id": "xrp",
