@@ -34,7 +34,7 @@
     {
       "id": "card",
       "label": "CUP",
-      "value": "9227-9598-7305-3768",
+      "value": "9227-9598-7756-0495",
       "img": "./images/payments/card.svg"
     },
     {
@@ -88,7 +88,7 @@
     {
       "id": "sol",
       "label": "SOL",
-      "value": "9wTqpH8TBEaAyLB6eWePBw2HDat3nzJBhyLvcXeqP3Ho",
+      "value": "EzoCjnfjxizbZucuZe4v95qwsk68W2xFXitAxj7baMZf",
       "img": "./images/payments/sol.svg"
     },
     {
